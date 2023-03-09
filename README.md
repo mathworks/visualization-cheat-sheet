@@ -6,12 +6,12 @@
 このリポジトリは、MATLABでプロットを作成する際の主要な機能をまとめたチートシートを提供します。
 
 
-English Version
+English Version ([PDF](PDF/One_Page_Slide_MATLAB_Visualization_Reference_EN.pdf))
 
 ![English Version](images/One_Page_Slide_MATLAB_Visualization_Reference_EN.jpg)
 
 
-日本語版
+日本語版 ([PDF](PDF/One_Page_Slide_MATLAB_Visualization_Reference_JP.pdf))
 
 ![Japanese Version](images/One_Page_Slide_MATLAB_Visualization_Reference_JP.jpg)
 
